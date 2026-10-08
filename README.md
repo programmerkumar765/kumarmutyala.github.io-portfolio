@@ -1,4 +1,4 @@
-# Tarun Bheema — AI/ML Engineer Portfolio
+# Kumar Mutyala — AI/ML Engineer Portfolio
 
 Static GitHub Pages portfolio.
 
